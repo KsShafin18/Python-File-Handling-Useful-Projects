@@ -9,4 +9,5 @@ ar etaie Sesh na Shamne aro Banabo Insha'Allah !!
 - Portfolio Card (little)
 - Gift Box For Your Love'Ones
 - Event Invitation Card
+- FIFA (2026) Player Card Generator (Dev Edtion)
 - (More to Come)
